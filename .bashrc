@@ -113,9 +113,6 @@ export PATH
 #------------ALIASING ADDED BY ME --------------
 
 alias yac='cc lex.yy.c -ll ; ./a.out '
-alias me='ooffice Desktop/.klds* '
-
-alias bg='ooffice Desktop/.blog.odt '
 
 alias sem='cd /media/lok/LOKESH/Semesters/7th_sem/ '
 
