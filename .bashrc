@@ -125,8 +125,6 @@ alias 97='evince /media/lok/LOKESH/e-books/97-Things-Every-Programmer-Should-Kno
 
 alias sam=' evince /media/lok/LOKESH/SAT/Documents/SAM* & '
 
-alias log=' vim /media/lok/LOKESH/.Daily_Log.c'
-alias lol=' vim /media/lok/LOKESH/.lol.c'
 
 alias gate='cd /media/lok/LOKESH/iisc_13/'
 
